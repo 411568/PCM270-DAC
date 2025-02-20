@@ -10,7 +10,7 @@ Important note: the board has not been tested yet.
 
 ![schematic](/images/schematic.jpg)
 
-![PCB 3d model](/images/3dmodel.jpg)
+![PCB 3d model](/images/3dmodel2.jpg)
 
 
 <h2>🛡️ License:</h2>
