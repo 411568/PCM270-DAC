@@ -12,6 +12,8 @@ Important note: the board has not been tested yet.
 
 ![PCB 3d model](/images/3dmodel2.jpg)
 
+![enclosure](/images/Screenshot%202025-02-20%20203426.jpg)
+
 
 <h2>🛡️ License:</h2>
 
