@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USB4110GFA")(type "KiCad")(uri "${KIPRJMOD}/libs/USB4110GFA")(options "")(descr ""))
+  (lib (name "USB4105GFA120")(type "KiCad")(uri "${KIPRJMOD}/libs/USB4105GFA120")(options "")(descr ""))
+  (lib (name "PJ-320B")(type "KiCad")(uri "${KIPRJMOD}/libs/PJ-320B")(options "")(descr ""))
+  (lib (name "PCM2704CDBR")(type "KiCad")(uri "${KIPRJMOD}/libs/PCM2704CDBR")(options "")(descr ""))
+  (lib (name "FOXSDLF_120-20")(type "KiCad")(uri "${KIPRJMOD}/libs/FOXSDLF_120-20")(options "")(descr ""))
+  (lib (name "ABMM-12.000MHZ-B2-T")(type "KiCad")(uri "${KIPRJMOD}/libs/ABMM-12.000MHZ-B2-T")(options "")(descr ""))
+)

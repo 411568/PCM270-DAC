@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCM2704CDBR")(type "KiCad")(uri "${KIPRJMOD}/libs/PCM2704CDBR/PCM2704CDBR.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4110GFA")(type "KiCad")(uri "${KIPRJMOD}/libs/USB4110GFA/USB4110GFA.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105GFA120")(type "KiCad")(uri "${KIPRJMOD}/libs/USB4105GFA120/USB4105GFA120.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-320B")(type "KiCad")(uri "${KIPRJMOD}/libs/PJ-320B/PJ-320B.kicad_sym")(options "")(descr ""))
+  (lib (name "FOXSDLF_120-20")(type "KiCad")(uri "${KIPRJMOD}/libs/FOXSDLF_120-20/FOXSDLF_120-20.kicad_sym")(options "")(descr ""))
+)
